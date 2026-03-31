@@ -1,0 +1,5 @@
+{
+    "latestVersion": "6.0.0",
+    "minVersion": "5.2.4",
+    "whatsNew": "Manage inventory by godown! Create godowns, move stock between them, track balances per location, and filter reports by godown. Reliability and speed improvements included."
+}
